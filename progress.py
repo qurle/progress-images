@@ -8,6 +8,7 @@ FORMATS = (
     '.jpeg',
     '.bmp',
     '.gif',
+    '.webp',
     '.tiff'
 )
 dir = fd.askdirectory()
